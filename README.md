@@ -1,2 +1,2 @@
-# Linear-Regression-using-NumPy
-Linear Regression using NumPy
+# Handmade Machine Learning Algorithms
+1. Linear Regression using NumPy
